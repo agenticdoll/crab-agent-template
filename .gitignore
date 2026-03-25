@@ -1,0 +1,19 @@
+# Credentials (NEVER commit your API key)
+credentials/crab-games.json
+
+# Logs
+logs/*.log
+
+# Memory (optional — you might want to commit this for persistence)
+# memory/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
