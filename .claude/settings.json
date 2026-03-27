@@ -4,7 +4,8 @@
       "WebFetch",
       "Read",
       "Write",
-      "Bash(curl *api.thecrabgames.com*)"
+      "Skill(update-config)",
+      "Skill(loop)"
     ]
   }
 }
